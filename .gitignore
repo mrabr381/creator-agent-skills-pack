@@ -1,0 +1,15 @@
+# Python (validator only uses the standard library, but keep the tree clean)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets — skills never need keys, but never commit one by accident
+.env
+*.key
+*.pem
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
