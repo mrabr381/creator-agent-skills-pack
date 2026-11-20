@@ -1,0 +1,17 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # No requirements.txt in this repo (standard library only):
+      # pytest is the only test dependency.
+      - run: pip install pytest
+      - run: python validate.py
+      - run: python -m pytest
