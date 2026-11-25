@@ -10,6 +10,7 @@
 [![Codex](https://img.shields.io/badge/Codex-compatible-6d28d9.svg)](#install)
 [![Cursor](https://img.shields.io/badge/Cursor-compatible-6d28d9.svg)](#install)
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-compatible-6d28d9.svg)](#install)
+[![GitHub stars](https://img.shields.io/github/stars/mrabr381/creator-agent-skills-pack?style=social)](https://github.com/mrabr381/creator-agent-skills-pack) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/muhammadabubakar)
 
 **Turn your AI assistant into a creator's helper — six ready-made skills
 for YouTube, repurposing, SEO and more.** No code. No API. No key. Each
